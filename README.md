@@ -12,7 +12,7 @@
     https://devzone.nordicsemi.com/f/nordic-q-a/49730/howto-nrf9160-development-with-clion
 
 ### Application Description
-    # curl Test 
+    curl Test 
     # curl "http://worldtimeapi.org/api/timezone/Africa/Johannesburg"
 
     {
