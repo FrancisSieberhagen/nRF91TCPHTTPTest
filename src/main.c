@@ -21,8 +21,6 @@
 #define LED3 DT_GPIO_LEDS_LED2_GPIOS_PIN
 #define LED4 DT_GPIO_LEDS_LED3_GPIOS_PIN
 
-//curl -x 172.104.140.63:3128 "http://worldtimeapi.org/api/timezone/Africa/Johannesburg"
-//{"week_number":15,"utc_offset":"+02:00","utc_datetime":"2020-04-12T12:33:37.093856+00:00","unixtime":1586694817,"timezone":"Africa/Johannesburg","raw_offset":7200,"dst_until":null,"dst_offset":0,"dst_from":null,"dst":false,"day_of_year":103,"day_of_week":0,"datetime":"2020-04-12T14:33:37.093856+02:00","client_ip":"172.104.140.63","abbreviation":"SAST"}
 
 #define HTTP_HEAD_1   \
     "GET http://worldtimeapi.org/api/timezone/Africa/Johannesburg HTTP/1.1\r\n" \
