@@ -5,6 +5,9 @@
 ### nRF Connect SDK!
     https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/index.html
 
+    Installing the nRF Connect SDK through nRF Connect for Desktop
+    https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/gs_assistant.html
+
 ### Nordicsemi nRF9160 NB-IoT 
     https://www.nordicsemi.com/Software-and-tools/Development-Kits/nRF9160-DK
 
